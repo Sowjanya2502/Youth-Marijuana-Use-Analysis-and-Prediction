@@ -1,0 +1,6 @@
+Introduction :
+This project focuses on analyzing youth drug use using data from the National Survey on Drug Use and Health (NSDUH). The given survey data has various factors which play important role in predicting youth drug usage. I explored three predictive tasks: 
+First one is binary classification to determine marijuana use, the second one multiclass classification to estimate the frequency of marijuana use over the past year, and finally regression to predict the age at which individual first consumed marijuana. 
+Building prediction models using decision trees is a common machine learning technique, especially when the data contains both continuous and categorical variables. In this study, we will develop predictive models for youth drug usage using decision trees, including ensemble approaches.
+The dataset includes demographic, behavioral, and peer/parental context indicators. 
+As part of this project Evaluated different models — starting from decision trees and extending to ensemble methods — and analyze which features are most predictive of usage patterns. The goal is not just to build accurate models, but also to draw meaningful insights that can help in public health interventions and early prevention efforts.
